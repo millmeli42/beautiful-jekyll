@@ -20,7 +20,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Table Demo: "table-demo"
     - Getting Started: "getstarted"
-    - Table Demo: "table-demo"
+    #- Table Demo: "table-demo"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
