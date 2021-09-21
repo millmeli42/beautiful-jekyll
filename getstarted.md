@@ -41,5 +41,6 @@ Note that this was the easy way to *create* your website, but it does come at a 
   .gs-section-02 p{
   font-size: 40px}
   .gs-section-03 p{
-  color: darkred;}
-  </style>
+  color: darkred;
+  }
+</style>
