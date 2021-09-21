@@ -18,6 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Table Demo: "Table-demo"
     - Getting Started: "getstarted"
     - Table Demo: "table-demo"
   Author's home: "https://deanattali.com"
